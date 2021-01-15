@@ -1,0 +1,76 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1610712535969">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4284554552" ref="index"/>
+    <file name="2.css" crc="4249184737" ref="2"/>
+    <file name="1.css" crc="536673571" ref="1"/>
+    <file name="3.css" crc="497903033" ref="3"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1:2:3"/>
+    <file name="museutils.js" crc="3803043152" ref="index:1:2:3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1:2:3"/>
+    <file name="museconfig.js" crc="380897831" ref="index:1:2:3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:1"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:1:2:3"/>
+    <file name="require.js" crc="4157109226" ref="index:1:2:3"/>
+    <file name="webpro.js" crc="242022427" ref="2"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="2"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="2"/>
+    <file name="touchswipe.js" crc="4066113679" ref="2"/>
+  </folder>
+  <folder name="images">
+    <file name="u1131-4.png" crc="33906091" ref="index"/>
+    <file name="u1137-6.png" crc="250164556" ref="index"/>
+    <file name="u1143-4.png" crc="4062989177" ref="index"/>
+    <file name="u1155-4.png" crc="3946556718" ref="index"/>
+    <file name="u1158-4.png" crc="3809918327" ref="index"/>
+    <file name="poster 電子檔4.png" crc="3846130397" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1331-4.png" crc="33906091" ref="1"/>
+    <file name="u1333-4.png" crc="4062989177" ref="1"/>
+    <file name="u1334-4.png" crc="3946556718" ref="1"/>
+    <file name="大總評-u1313-fr.jpg" crc="3845418602" ref="1"/>
+    <file name="u1355-4.png" crc="33906091" ref="2"/>
+    <file name="u1356-6.png" crc="250164556" ref="2"/>
+    <file name="u1358-4.png" crc="3946556718" ref="2"/>
+    <file name="1.jpg" crc="3971518440" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+      <caption webpage="劇照" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="2"/>
+    <file name="2.jpg" crc="146965538" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+      <caption webpage="劇照" alt=""/>
+    </file>
+    <file name="3.jpg" crc="21675669" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+      <caption webpage="劇照" alt=""/>
+    </file>
+    <file name="4.jpg" crc="3975888029" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+      <caption webpage="劇照" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3863652895" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+      <caption webpage="劇照" alt=""/>
+    </file>
+    <file name="7.jpg" crc="3957027693" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+      <caption webpage="劇照" alt=""/>
+    </file>
+    <file name="8.jpg" crc="4158290085" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+      <caption webpage="劇照" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="2"/>
+    <file name="u1560-4.png" crc="33906091" ref="3"/>
+    <file name="u1561-6.png" crc="250164556" ref="3"/>
+    <file name="u1562-4.png" crc="4062989177" ref="3"/>
+  </folder>
+  <file name="index.html" crc="206814338" seo="true" mt="1610711791706" redirect="true"/>
+  <file name="1.html" crc="4118003742" seo="true" mt="1610711791705" redirect="true"/>
+  <file name="2.html" crc="3776382859" seo="true" mt="1610711791705" redirect="true"/>
+  <file name="3.html" crc="3782168055" seo="true" mt="1610712310271" redirect="true"/>
+</manifest>
